@@ -276,11 +276,22 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Calculate any simple equation.</li>
-          <li>Aliases: <code>wikipedia</code>
+          <li>Aliases: <code>calculator</code>
           </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qisitdown &lt;website url&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Check current status like ping of a website.</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+
 
