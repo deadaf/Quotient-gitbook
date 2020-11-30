@@ -74,6 +74,35 @@ description: >-
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>qpartners</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Gets a list of current official partners.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qdeveloper</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Get information about Quotient&apos;s developer.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qvote</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Get quotient&apos;s vote link.</li>
+          <li>Kindly vote: <a href="https://top.gg/bot/746348747918934096/vote">https://top.gg/bot/746348747918934096/vote</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

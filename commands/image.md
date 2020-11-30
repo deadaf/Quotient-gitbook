@@ -62,6 +62,8 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Get random cat images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
@@ -71,6 +73,8 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Get random dog images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
@@ -80,6 +84,8 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Get random fox images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
@@ -89,6 +95,8 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Get random duck images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
@@ -98,6 +106,8 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Get random panda images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
@@ -231,6 +241,116 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Makes any user wasted.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qburn &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Burn any user.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qcharcoal &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Draw any user with charcoal.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qspread &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Spread anyone lol.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qdisgusting &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Makes any user disgusting.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qfailed &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Did anyone ever failed you?</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qswirl &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Swirl anyone&apos;s pfp.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qpikachu</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Gets random pikachu images.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qwink &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Wink at any user.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qhug &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Hug anyone if need it.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qpat &lt;user&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Pat someone!</li>
           <li>Permissions Required: <code>embed_links</code>
           </li>
         </ul>

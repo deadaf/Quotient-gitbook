@@ -14,3 +14,8 @@
 * [Fun Commands](commands/fun.md)
 * [Other Commands](commands/other.md)
 
+## More Info
+
+* [Privacy Policy](more-info/privacy-policy.md)
+* [A word from developer](more-info/developer.md)
+
