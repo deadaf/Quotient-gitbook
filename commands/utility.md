@@ -164,7 +164,7 @@ description: >-
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Shorten any lonf url.</li>
+          <li>Shorten any long URL.</li>
           <li>Required Permissions: <code>embed_links</code>
           </li>
         </ul>
@@ -264,7 +264,7 @@ description: >-
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Search any query on wikipedia.</li>
+          <li>Search any query on Wikipedia.</li>
           <li>Aliases: <code>wikipedia</code>
           </li>
         </ul>
@@ -287,6 +287,17 @@ description: >-
       <td style="text-align:left">
         <ul>
           <li>Check current status like ping of a website.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qweather &lt;city/pincode&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Get complete weather forecast about any city.</li>
+          <li>Required Permissions: <code>embed_links</code>
+          </li>
         </ul>
       </td>
     </tr>
