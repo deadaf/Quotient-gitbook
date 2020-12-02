@@ -13,6 +13,7 @@
 * [Image Commands](commands/image.md)
 * [Fun Commands](commands/fun.md)
 * [Other Commands](commands/other.md)
+* [Comming Soon](commands/maybe-soon.md)
 
 ## More Info
 
