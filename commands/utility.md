@@ -301,6 +301,17 @@ description: >-
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>qlyrics &lt;songname&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Get lyrics of any song.</li>
+          <li>Required Permissions: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

@@ -356,6 +356,17 @@ description: >-
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>qcatsay &lt;text&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Makes a cat say something.</li>
+          <li>Permissions Required: <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
