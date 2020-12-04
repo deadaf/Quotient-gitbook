@@ -75,6 +75,16 @@ description: >-
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>qfeedback &lt;message&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Send feedback or suggestions about bot.</li>
+          <li>Can be used in DM&apos;s or in server</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>qpartners</code>
       </td>
       <td style="text-align:left">
