@@ -57,6 +57,17 @@ description: >-
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>qaww</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Gets random cute images to do awwwwwwwwwww</li>
+          <li>Permissions Required <code>embed_links</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>qcat</code>
       </td>
       <td style="text-align:left">
