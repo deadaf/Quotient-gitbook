@@ -73,6 +73,18 @@ description: >-
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>qmodlogs &lt;subcommand&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Setup logging for all mod-actions in the guild.</li>
+          <li>Use <code>qhelp modlogs</code> to get a list of all subcommands.</li>
+          <li>Required permissions: <code>manage_guild</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>qfont &lt;subcommand&gt; &lt;text&gt;</code>
       </td>
       <td style="text-align:left">
