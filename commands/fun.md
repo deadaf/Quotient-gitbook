@@ -14,11 +14,36 @@ description: >-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">ommand</th>
+      <th style="text-align:left">Command</th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><code>qautomeme &lt;subcommand&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Setup auto-memes.</li>
+          <li>Bot will send random funny memes every 10 mins in desired channel.</li>
+          <li>Use <code>qhelp automeme</code> to get all info.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>qdailyfact &lt;subcommand&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Setup daily facts</li>
+          <li>Bot will send interesting facts in desired channel everyday at 06:00 and
+            18:00.</li>
+          <li>Use <code>qhelp dailyfact</code> to know more.</li>
+          <li>Aliases: <code>df</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><code>qrps  &lt;choice&gt;</code>
       </td>
