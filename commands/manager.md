@@ -4,7 +4,7 @@ description: >-
   information about a command or subcommand by using qhelp <command name>.
 ---
 
-# Scrims Manager
+# Scrims & Tournaments
 
 * \[ \] = optional argument
 * &lt; &gt; = required argument
@@ -46,4 +46,8 @@ description: >-
     </tr>
   </tbody>
 </table>
+
+## Tournament Management
+
+Coming Soon.................
 

@@ -9,7 +9,7 @@
 
 * [Moderation Commands](commands/moderation.md)
 * [Utility Commands](commands/utility.md)
-* [Scrims Manager](commands/scrims.md)
+* [Scrims & Tournaments](commands/manager.md)
 * [Image Commands](commands/image.md)
 * [Fun Commands](commands/fun.md)
 * [Other Commands](commands/other.md)
