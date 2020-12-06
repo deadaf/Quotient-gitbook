@@ -199,6 +199,18 @@ description: >-
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>qtempmute &lt;user&gt; [reason]</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Tempmute any user for desired duration.</li>
+          <li>Duration can only be in s|m|h|d.</li>
+          <li>Required Permission: <code>manage_roles</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

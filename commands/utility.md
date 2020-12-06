@@ -95,6 +95,17 @@ description: >-
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>qcontime &lt;time&gt;</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Convert time from days, hours, minutes to seconds.</li>
+          <li>Example usage: <code>qcontime 2m|h|d</code>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>qroleinfo &lt;role&gt;</code>
       </td>
       <td style="text-align:left">
