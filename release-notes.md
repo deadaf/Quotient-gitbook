@@ -1,6 +1,6 @@
 # Release Notes
 
-## Version: 2.0.0 \| Date: \_\_-12-2020 \| Time: \_\_:\_\_ 
+## Version: 2.0.0 \| Date: 08-12-2020 \| Time: 17:05 
 
 ### Added
 
