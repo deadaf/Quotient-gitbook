@@ -20,24 +20,22 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><code>qsmanager &lt;subcommand&gt;</code>
+      <td style="text-align:left"><code>qsmanager&lt;subcommand&gt;</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Setup / edit/ disable scrims manager for the current guild.</li>
-          <li>Get some important information about smanager by using <code>qsmanager</code>
-          </li>
-          <li>To get a list of all sub commands use, <code>qhelp smanager</code>.</li>
+          <li>Setup / edit/ disable/ config scrims manager for the current guild.</li>
+          <li>To get a list of all sub commands use, <code>qhelp s</code>.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>qtable</code>
+      <td style="text-align:left"><code>qpointstable</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Create simple embed points table of scrims.</li>
-          <li>Aliases: <code>pt</code>,<code>points</code>,<code>leaderboard</code>
+          <li>Create points table of scrims.</li>
+          <li>Aliases: <code>pt</code>
           </li>
           <li>Required permissions: <code>administrator</code>
           </li>

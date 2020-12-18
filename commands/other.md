@@ -52,12 +52,12 @@ description: >-
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>qstats</code>
+      <td style="text-align:left"><code>qinfo</code>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Get current bot stats.</li>
+          <li>Get bot info.</li>
           <li>Aliases: <code>info</code>,<code>botinfo</code>
           </li>
         </ul>
